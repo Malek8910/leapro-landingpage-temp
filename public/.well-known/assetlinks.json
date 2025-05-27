@@ -1,0 +1,22 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.example.leapro_user_auth_oauth2_demo2",
+      "sha256_cert_fingerprints": [
+        "5D:AF:AF:7D:B8:AC:45:71:F1:DE:EF:34:CE:99:63:83:E9:CF:7C:43:23:1F:46:29:90:20:0E:56:23:54:91:7F"
+      ]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.example.sme_mobile_app",
+      "sha256_cert_fingerprints": [
+        "5D:AF:AF:7D:B8:AC:45:71:F1:DE:EF:34:CE:99:63:83:E9:CF:7C:43:23:1F:46:29:90:20:0E:56:23:54:91:7F"
+      ]
+    }
+  }
+]
